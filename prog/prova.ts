@@ -10,3 +10,4 @@ const calcfatorial=(n:number)=>{
 const n= 4
 const factorial=calcfatorial(n);
 console.log(`O fatorial de ${n} é ${factorial}`);
+console.log('O miguel é lindo')
