@@ -1,0 +1,21 @@
+@media screen and (max-width: 1600px){
+    .quadrado {
+        width: 150px;
+        height: 150px;
+        background: red;
+      }
+}
+@media screen and (max-width: 1200px){
+    .quadrado {
+        width: 150px;
+        height: 150px;
+        background: blue;
+      }
+}
+@media screen and (max-width: 800px){
+    .quadrado {
+        width: 150px;
+        height: 150px;
+        background: yellow;
+      }
+}

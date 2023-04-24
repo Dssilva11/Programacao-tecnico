@@ -1,0 +1,17 @@
+
+.container{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+table{
+    border-width: 10px;
+
+    background-color:gray;
+}
+tbody{
+    background-color: snow;
+}
