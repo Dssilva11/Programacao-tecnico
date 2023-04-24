@@ -1,0 +1,22 @@
+body{
+    background-color: #f3d7c1;
+    background-image: url('../imagens/siri-4.png');
+    background-size: 50px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+video {
+    border: 5px solid black;
+}
+
+h1{
+    background-color: #f3d7c1;
+    color: black;
+    border: 3px solid black;
+}
