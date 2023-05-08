@@ -1,4 +1,5 @@
 "use strict";
+/*
 let array = [];
 let randon = 0;
 let soma = 0;
@@ -12,7 +13,7 @@ function media() {
     for (let cont = 0; cont < 10; cont++) {
         soma = soma + array[cont];
     }
-    return soma / 10;
+    return soma / 10
 }
-console.log(array);
-console.log(media());
+console.log(array)
+console.log(media())*/ 

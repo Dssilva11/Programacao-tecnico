@@ -1,5 +1,5 @@
 "use strict";
-
+/*
 let array=[]
 let maior = 0
 
@@ -9,4 +9,4 @@ for (let cont=0; cont<20;cont++){
         maior=array[cont]
 }
 console.log(array)
-console.log(maior) 
+console.log(maior) */ 
